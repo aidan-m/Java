@@ -1,1 +1,3 @@
-#GuitarHero Project in Java
+#GuitarHero Project in Java#
+Build an application which allows a user to use their keyboard to 'play' guitar. 
+Uses GuitarString and RingBuffer classes to generate the different frequencies required for different notes/
